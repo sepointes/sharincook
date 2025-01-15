@@ -14,6 +14,7 @@
     list-style: none;
     display: flex;
     gap: 1.5rem;
+    position: relative;
 
     li a {
       color: #fff;
@@ -29,6 +30,9 @@
     .material-icons {
       font-size: 24px;
       vertical-align: middle;
+    }
+    .user-icon-wrapper {
+      position: relative;
     }
   }
 }

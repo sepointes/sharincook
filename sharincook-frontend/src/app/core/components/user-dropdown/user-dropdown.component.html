@@ -1,0 +1,21 @@
+<div class="dropdown-menu">
+  @if (isLoggedIn) {
+
+      <ul>
+        <li (click)="close()">
+          <a routerLink="/user/carnet">Mon carnet</a>
+        </li>
+        <li (click)="close()">
+          <a routerLink="/user/reseau">Mon réseau</a>
+        </li>
+        <li (click)="close()">
+          <a routerLink="/user/messagerie">Ma messagerie</a>
+        </li>
+      </ul>
+
+  } @else {
+      <p (click)="close()">
+        <a routerLink="/login">Cliquez ici pour vous connecter</a>
+      </p>
+  }
+</div>

@@ -2,7 +2,7 @@
   <!-- Logo à gauche -->
   <div class="logo">
     <!-- Remplacez le src de l'image par le chemin de votre logo -->
-    <img src="/assets/logo.png" alt="Sharincook Logo" />
+    <img src="/assets/logo.png" alt="Sharincook Logo"/>
   </div>
 
   <!-- Menu à droite -->
@@ -21,11 +21,12 @@
       </a>
     </li>
 
-    <!-- Icône user (redirigeant vers le profil utilisateur) -->
-    <li>
-      <a routerLink="/user">
-        <i class="material-icons">account_circle</i>
-      </a>
+    <li class="user-icon-wrapper" (click)="toggleDropdown()">
+      <i class="material-icons">account_circle</i>
+      @if (showDropdown) {
+        <app-user-dropdown [isLoggedIn]="isLoggedIn" (requestClose)="closeDropdown()">
+        </app-user-dropdown>
+      }
     </li>
   </ul>
 </nav>
