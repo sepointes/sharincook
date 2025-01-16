@@ -1,10 +1,12 @@
 import {Component, HostListener} from '@angular/core';
 import {UserDropdownComponent} from '../user-dropdown/user-dropdown.component';
+import {RouterLink} from '@angular/router';
 
 @Component({
   selector: 'app-header',
   imports: [
-    UserDropdownComponent
+    UserDropdownComponent,
+    RouterLink
   ],
   templateUrl: './header.component.html',
   styleUrl: './header.component.scss'
