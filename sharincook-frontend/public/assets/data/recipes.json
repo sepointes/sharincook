@@ -1,0 +1,185 @@
+[
+  {
+    "title": "Salade César",
+    "description": "Une salade classique composée de laitue romaine, de croûtons et de sauce César.",
+    "ingredients": [
+      "Laitue romaine",
+      "Croûtons",
+      "Parmesan râpé",
+      "Sauce César",
+      "Poulet (optionnel)"
+    ],
+    "steps": [
+      "Laver et couper la laitue",
+      "Ajouter les croûtons et le parmesan",
+      "Assaisonner avec la sauce César",
+      "Mélanger et servir frais"
+    ]
+  },
+  {
+    "title": "Pâtes carbonara",
+    "description": "Un plat italien à base de spaghetti, lardons, œufs et parmesan.",
+    "ingredients": [
+      "Spaghetti",
+      "Lardons",
+      "Œufs",
+      "Parmesan râpé",
+      "Poivre"
+    ],
+    "steps": [
+      "Faire cuire les spaghetti",
+      "Faire revenir les lardons",
+      "Battre les œufs avec le parmesan",
+      "Mélanger le tout et poivrer avant de servir"
+    ]
+  },
+  {
+    "title": "Soupe à l’oignon",
+    "description": "Une soupe d’hiver réconfortante avec oignons caramélisés et fromage gratiné.",
+    "ingredients": [
+      "Oignons",
+      "Beurre",
+      "Farine",
+      "Bouillon de bœuf",
+      "Fromage râpé",
+      "Pain"
+    ],
+    "steps": [
+      "Émincer et faire caraméliser les oignons",
+      "Ajouter la farine et mélanger",
+      "Verser le bouillon et laisser mijoter",
+      "Verser dans des bols, ajouter le pain et le fromage puis gratiner"
+    ]
+  },
+  {
+    "title": "Quiche lorraine",
+    "description": "Une quiche savoureuse à base de pâte brisée, lardons et crème fraîche.",
+    "ingredients": [
+      "Pâte brisée",
+      "Lardons",
+      "Crème fraîche",
+      "Œufs",
+      "Gruyère râpé",
+      "Poivre et sel"
+    ],
+    "steps": [
+      "Foncer le moule avec la pâte brisée",
+      "Faire revenir les lardons",
+      "Mélanger œufs, crème, gruyère, sel et poivre",
+      "Ajouter les lardons et verser l’appareil sur la pâte",
+      "Cuire au four à 180°C pendant 30 min"
+    ]
+  },
+  {
+    "title": "Poulet au curry",
+    "description": "Plat exotique aux saveurs épicées, servi avec du riz.",
+    "ingredients": [
+      "Poulet",
+      "Oignon",
+      "Curry en poudre",
+      "Lait de coco",
+      "Gingembre",
+      "Riz"
+    ],
+    "steps": [
+      "Faire dorer le poulet avec l’oignon",
+      "Ajouter le curry, le gingembre et le lait de coco",
+      "Laisser mijoter 20 min",
+      "Servir avec du riz"
+    ]
+  },
+  {
+    "title": "Gratin dauphinois",
+    "description": "Un gratin traditionnel français à base de pommes de terre et de crème.",
+    "ingredients": [
+      "Pommes de terre",
+      "Crème fraîche",
+      "Lait",
+      "Ail",
+      "Muscade",
+      "Fromage râpé (optionnel)"
+    ],
+    "steps": [
+      "Éplucher et couper les pommes de terre en rondelles",
+      "Frotter le plat à gratin avec de l’ail",
+      "Alterner pommes de terre et crème",
+      "Assaisonner avec sel, poivre, muscade",
+      "Cuire à 160°C pendant 1h à 1h30"
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "description": "Un mélange provençal de légumes mijotés (tomates, aubergines, courgettes, poivrons).",
+    "ingredients": [
+      "Tomates",
+      "Aubergines",
+      "Courgettes",
+      "Poivrons",
+      "Oignon",
+      "Herbes de Provence"
+    ],
+    "steps": [
+      "Couper tous les légumes en morceaux",
+      "Faire revenir l’oignon",
+      "Ajouter les légumes progressivement",
+      "Assaisonner avec sel, poivre, herbes de Provence",
+      "Laisser mijoter à feu doux 30 min"
+    ]
+  },
+  {
+    "title": "Bœuf bourguignon",
+    "description": "Un plat mijoté traditionnel avec du bœuf, des carottes et du vin rouge.",
+    "ingredients": [
+      "Bœuf à braiser",
+      "Carottes",
+      "Oignons",
+      "Vin rouge",
+      "Bouquet garni",
+      "Champignons (optionnel)"
+    ],
+    "steps": [
+      "Faire revenir la viande",
+      "Ajouter les oignons, carottes et faire dorer",
+      "Déglacer avec du vin rouge",
+      "Ajouter le bouquet garni et laisser mijoter 2h",
+      "Ajouter les champignons en fin de cuisson"
+    ]
+  },
+  {
+    "title": "Crêpes sucrées",
+    "description": "De délicieuses crêpes fines et moelleuses.",
+    "ingredients": [
+      "Farine",
+      "Œufs",
+      "Lait",
+      "Sucre",
+      "Beurre fondu",
+      "Vanille (optionnel)"
+    ],
+    "steps": [
+      "Mélanger farine, œufs, lait et sucre",
+      "Ajouter le beurre fondu et la vanille",
+      "Laisser reposer 30 min",
+      "Faire cuire dans une poêle légèrement huilée ou beurrée"
+    ]
+  },
+  {
+    "title": "Tiramisu",
+    "description": "Un dessert italien à base de mascarpone, café et biscuits.",
+    "ingredients": [
+      "Mascarpone",
+      "Œufs",
+      "Sucre",
+      "Café fort",
+      "Biscuits à la cuillère",
+      "Cacao en poudre"
+    ],
+    "steps": [
+      "Battre les jaunes d’œufs avec le sucre",
+      "Ajouter le mascarpone et mélanger",
+      "Tremper les biscuits dans le café",
+      "Alterner une couche de crème et une couche de biscuits",
+      "Saupoudrer de cacao et réserver au frais"
+    ]
+  }
+]
