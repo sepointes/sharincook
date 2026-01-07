@@ -1,7 +1,7 @@
 # Sharincook
 
 Sharincook est un projet de site web dédié à la création et au partage de recettes de cuisine.  
-Ce dépôt comprend à la fois la partie **Frontend** (Angular 21) et la partie **Backend** (Spring Boot 4.0.1) ainsi que la configuration de la base de données (PostgreSQL et H2 pour l’environnement de développement).
+Ce dépôt comprend à la fois la partie **Frontend** (Angular 21) et la partie **Backend** (Spring Boot 3.5.9) ainsi que la configuration de la base de données (PostgreSQL et H2 pour l’environnement de développement).
 
 ---
 
@@ -26,8 +26,8 @@ Ce dépôt comprend à la fois la partie **Frontend** (Angular 21) et la partie 
     - Recherche avancée par ingrédients, temps de cuisson, etc.
 
 Le projet est organisé en deux parties distinctes :
-- **Frontend :** Basé sur Angular 19 pour l’interface utilisateur.
-- **Backend :** Développé en Spring Boot 3.4.1 pour la gestion des données et des API REST.
+- **Frontend :** Basé sur Angular 21 pour l’interface utilisateur.
+- **Backend :** Développé en Spring Boot 3.5.9 pour la gestion des données et des API REST.
 
 ---
 
@@ -38,7 +38,7 @@ Le projet est organisé en deux parties distinctes :
     - TypeScript, HTML5, CSS3
 
 - **Backend :**
-    - [Spring Boot 4.0.1](https://spring.io/)
+    - [Spring Boot 3.5.9](https://spring.io/)
     - Java 21
     - [Maven](https://maven.apache.org/) pour la gestion des dépendances
 
